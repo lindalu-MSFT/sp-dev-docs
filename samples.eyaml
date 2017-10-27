@@ -1,0 +1,83 @@
+
+samples:
+    - name: Convert an Office Add-in task pane template in Visual Studio to TypeScript
+      relPath: docs/develop
+      description: A sample that converts JavaScript to TypeScript
+      readme: https://github.com/dend/testing/README.md
+      screenshots:
+          - relPath: images/typescript-definitelytyped-nugets.png
+            description: Excel Add-in TS Start
+            alt: Screenshot of Excel Add-in with code window
+      generateZip: true
+      indexed: true
+      reviewOnly: true
+      tags:
+          - Excel
+          - add-in
+          - TypeScript
+      azureDeploy: https://path/to/template.json
+      tryNow: https://link/to/try/now/for/sample
+      author: dend
+
+     - name: Use Office UI Fabric React in Office Add-ins
+      relPath: docs/design
+      description: Add a Fabric React component
+      readme: https://github.com/dend/testing/README.md
+      screenshots:
+          - relPath: images/overview_withApp_breadcrumb.png
+            description: Add a breadcrumb component in Fabric React
+            alt: Screenshot of a breadcrumb component
+          - relPath: images/overview_withApp_checkbox.png
+            description: Add a checkbox component in Fabric React
+            alt: Screenshot of a checkbox component  
+      generateZip: true
+      indexed: true
+      reviewOnly: true
+      tags:
+          - Fabric UI
+          - add-in
+          - React
+          - component
+          - checkbox
+      azureDeploy: https://path/to/template.json
+      tryNow: https://link/to/try/now/for/sample
+      author: dend
+
+    - name: Convert an Office Add-in task pane template in Visual Studio to TypeScript
+      relPath: docs/develop
+      description: A sample that converts JavaScript to TypeScript
+      readme: https://github.com/dend/testing/README.md
+      screenshots:
+          - relPath: images/typescript-definitelytyped-nugets.png
+            description: Excel Add-in TS Start
+            alt: Screenshot of Excel Add-in with code window
+      generateZip: true
+      indexed: true
+      reviewOnly: true
+      tags:
+          - Excel
+          - add-in
+          - TypeScript
+      azureDeploy: https://path/to/template.json
+      tryNow: https://link/to/try/now/for/sample
+      author: dend
+
+    - name: Convert an Office Add-in task pane template in Visual Studio to TypeScript
+      relPath: docs/develop
+      description: A sample that converts JavaScript to TypeScript
+      readme: https://github.com/dend/testing/README.md
+      screenshots:
+          - relPath: images/typescript-definitelytyped-nugets.png
+            description: Excel Add-in TS Start
+            alt: Screenshot of Excel Add-in with code window
+      generateZip: true
+      indexed: true
+      reviewOnly: true
+      tags:
+          - Excel
+          - add-in
+          - TypeScript
+      azureDeploy: https://path/to/template.json
+      tryNow: https://link/to/try/now/for/sample
+      author: dend
+  
